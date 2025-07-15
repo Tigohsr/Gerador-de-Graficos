@@ -20,6 +20,7 @@ Utilize as intruções conforme apresentadas durante a execução.
 
 ----
 # English Version
+----
 # Python Chart Generator
 
 ## Description
